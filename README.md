@@ -1,3 +1,8 @@
 # amicaTest
 This is just test
-Added another line
+Added files and folder.
+Commited and pushed.
+Delete Contact text.
+Edited files
+Pushed the files
+
